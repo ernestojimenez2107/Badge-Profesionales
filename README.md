@@ -14,6 +14,7 @@
 
 
 
+
 ## Microsoft Learning
 
 [![Microfot Advertising Search Certification](microsoft-advertising-search-certification.png)](https://www.credly.com/badges/84eee83a-6e75-4404-9964-b96c62e84470/public_url)
